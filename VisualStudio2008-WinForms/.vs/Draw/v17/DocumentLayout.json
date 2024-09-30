@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|c:\\users\\dani\\desktop\\\u0433\u043F\u0438\\2201321071\\c#\\visualstudio2008-winforms\\src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\savemodes\\jsonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\savemodes\\jsonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\custom dialogs\\selectgroupdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\custom dialogs\\selectgroupdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\processors\\dialogprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\processors\\dialogprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\model\\testshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\testshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\model\\triangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\triangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\model\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\rectangleshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\model\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\savemodes\\shapeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\savemodes\\shapeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\processors\\displayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\processors\\displayprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\model\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\model\\ellipseshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\model\\ellipseshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\custom dialogs\\deletedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\custom dialogs\\deletedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|GeometryHelper||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Draw||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\custom dialogs\\deletedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\custom dialogs\\deletedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\custom dialogs\\selectgroupdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\custom dialogs\\selectgroupdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\custom dialogs\\createdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\custom dialogs\\createdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A9A968-DE7B-4537-9423-9D8ED1A72BF9}|Draw.csproj|solutionrelative:src\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RectangleShape.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\RectangleShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\RectangleShape.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\RectangleShape.cs",
+              "RelativeToolTip": "src\\Model\\RectangleShape.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:34:21.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\Shape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\Shape.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\Shape.cs",
+              "RelativeToolTip": "src\\Model\\Shape.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAAI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:25:33.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TriangleShape.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\TriangleShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\TriangleShape.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\TriangleShape.cs",
+              "RelativeToolTip": "src\\Model\\TriangleShape.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:38:47.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DialogProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Processors\\DialogProcessor.cs",
+              "RelativeDocumentMoniker": "src\\Processors\\DialogProcessor.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Processors\\DialogProcessor.cs",
+              "RelativeToolTip": "src\\Processors\\DialogProcessor.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAA+wGkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:11:33.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "src\\GUI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\GUI\\MainForm.cs",
+              "RelativeToolTip": "src\\GUI\\MainForm.cs",
+              "ViewState": "AQIAAKMBAAAAAAAAAAAQwLgBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:26:23.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "src\\GUI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\GUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "src\\GUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:39:37.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\SaveModes\\JsonModel.cs",
+              "RelativeDocumentMoniker": "src\\SaveModes\\JsonModel.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\SaveModes\\JsonModel.cs",
+              "RelativeToolTip": "src\\SaveModes\\JsonModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:25:59.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectGroupDIalog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Custom Dialogs\\SelectGroupDIalog.cs",
+              "RelativeDocumentMoniker": "src\\Custom Dialogs\\SelectGroupDIalog.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Custom Dialogs\\SelectGroupDIalog.cs [Design]",
+              "RelativeToolTip": "src\\Custom Dialogs\\SelectGroupDIalog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:06:06.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShapeConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\SaveModes\\ShapeConverter.cs",
+              "RelativeDocumentMoniker": "src\\SaveModes\\ShapeConverter.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\SaveModes\\ShapeConverter.cs",
+              "RelativeToolTip": "src\\SaveModes\\ShapeConverter.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:27:37.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestShape.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\TestShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\TestShape.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\TestShape.cs",
+              "RelativeToolTip": "src\\Model\\TestShape.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:25:01.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EllipseShape.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\EllipseShape.cs",
+              "RelativeDocumentMoniker": "src\\Model\\EllipseShape.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\EllipseShape.cs",
+              "RelativeToolTip": "src\\Model\\EllipseShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:59:51.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GroupModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\GroupModel.cs",
+              "RelativeDocumentMoniker": "src\\Model\\GroupModel.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Model\\GroupModel.cs",
+              "RelativeToolTip": "src\\Model\\GroupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T10:53:27.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DisplayProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Processors\\DisplayProcessor.cs",
+              "RelativeDocumentMoniker": "src\\Processors\\DisplayProcessor.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Processors\\DisplayProcessor.cs",
+              "RelativeToolTip": "src\\Processors\\DisplayProcessor.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAWwEAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:36:38.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Custom Dialogs\\DeleteDialog.cs",
+              "RelativeDocumentMoniker": "src\\Custom Dialogs\\DeleteDialog.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Custom Dialogs\\DeleteDialog.cs [Design]",
+              "RelativeToolTip": "src\\Custom Dialogs\\DeleteDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T15:24:35.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GeometryHelper",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\GeometryHelper\\GeometryHelper.csproj",
+              "RelativeDocumentMoniker": "..\\GeometryHelper\\GeometryHelper.csproj",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\GeometryHelper\\GeometryHelper.csproj",
+              "RelativeToolTip": "..\\GeometryHelper\\GeometryHelper.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T17:49:10.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Draw",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\Draw.csproj",
+              "RelativeDocumentMoniker": "Draw.csproj",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\Draw.csproj",
+              "RelativeToolTip": "Draw.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T16:36:50.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Custom Dialogs\\DeleteDialog.cs",
+              "RelativeDocumentMoniker": "src\\Custom Dialogs\\DeleteDialog.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Custom Dialogs\\DeleteDialog.cs",
+              "RelativeToolTip": "src\\Custom Dialogs\\DeleteDialog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:28:14.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SelectGroupDIalog.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Custom Dialogs\\SelectGroupDIalog.cs",
+              "RelativeDocumentMoniker": "src\\Custom Dialogs\\SelectGroupDIalog.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Custom Dialogs\\SelectGroupDIalog.cs",
+              "RelativeToolTip": "src\\Custom Dialogs\\SelectGroupDIalog.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwEIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:06:07.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Custom Dialogs\\CreateDialog.cs",
+              "RelativeDocumentMoniker": "src\\Custom Dialogs\\CreateDialog.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\Custom Dialogs\\CreateDialog.cs",
+              "RelativeToolTip": "src\\Custom Dialogs\\CreateDialog.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAzwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:26:23.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Dani\\Desktop\\\u0413\u041F\u0418\\2201321071\\C#\\VisualStudio2008-WinForms\\src\\GUI\\Program.cs",
+              "RelativeToolTip": "src\\GUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T13:20:01.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
